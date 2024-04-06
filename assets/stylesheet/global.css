@@ -1,0 +1,32 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* fz100p enter, reset kardim default mikhaym 16px bashe */
+    font-size: 100%;
+    /* ffa enter */
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+li{
+    /* lstn enter */
+    list-style-type: none;
+}
+
+a{
+    /* az parentesh begire */
+    color:inherit;
+    text-decoration: none;
+}
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    /* h100p enter */
+    height: 100%;
+}
