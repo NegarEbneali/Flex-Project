@@ -1,8 +1,10 @@
 # Flex-project
 
+- [Demo Project](https://negarebneali.github.io/Flex-Project/)
+
 - As the first practice project🙂
 
-- Created - 2024-03-16
+- Developed - 2024-03-16
 
 - Technologies Used - Html5 , css3 
 
